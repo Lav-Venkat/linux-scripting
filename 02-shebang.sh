@@ -10,3 +10,7 @@
 #ZSH
 #FISH
 
+
+# Shell scripting is nothing but adding your manual commands in a order
+
+
