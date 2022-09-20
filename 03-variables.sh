@@ -3,3 +3,7 @@ b=abc
 c=true
 
 echo "value of 1 = $a"
+
+# Command substitution
+
+DATE=$(date)
