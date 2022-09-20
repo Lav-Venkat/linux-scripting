@@ -12,4 +12,6 @@ DATE=$(date)
 echo "Today's date is $DATE"
 
 # Variable from CLI
+export x
 echo "Value of x = $x"
+#Use local property converted into global
